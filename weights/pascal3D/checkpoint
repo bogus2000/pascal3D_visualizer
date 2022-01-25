@@ -1,0 +1,2 @@
+model_checkpoint_path: "priornet_instance"
+all_model_checkpoint_paths: "priornet_instance"
